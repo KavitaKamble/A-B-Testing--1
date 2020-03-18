@@ -1,5 +1,6 @@
 # A-B-Testing--1
-A/B Testing for a ecommerce website
+A/B Testing for a ecommerce website -- Udacity Nanodegree Project
+
 We are conducting this project Analyze A/B Test Results to analyze the behavior of two versions of a webpage old and new to determine if we can statistically prove whether one is better than the other.
 
 Table of Contents
